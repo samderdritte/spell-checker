@@ -1,0 +1,7 @@
+This is a sample file.
+The file has some text in it.
+
+This text is on a new line.
+Ths tetx has some errrors in it.
+This Word is capiTal 
+Here are words in CAPITAL LETTERS.
